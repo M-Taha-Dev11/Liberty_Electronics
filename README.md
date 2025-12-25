@@ -33,7 +33,10 @@ The website allows users to explore, filter, and compare mobile phones efficient
 | JavaScript  | Dynamic interactivity and filtering features|
 
 ---
+⚡ Live Demo
+https://M-Taha-Dev11.github.io/Liberty-Electronics/
 
+---
 ## 💻 Setup Instructions
 
 1. Clone the repository:
