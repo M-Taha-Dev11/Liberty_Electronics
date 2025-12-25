@@ -31,11 +31,6 @@ The website allows users to explore, filter, and compare mobile phones efficient
 | HTML5       | Structure and semantic markup               |
 | CSS3        | Styling and responsive design               |
 | JavaScript  | Dynamic interactivity and filtering features|
-
----
-⚡ Live Demo
-https://M-Taha-Dev11.github.io/Liberty-Electronics/
-
 ---
 ## 💻 Setup Instructions
 
